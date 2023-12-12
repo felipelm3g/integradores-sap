@@ -10,13 +10,10 @@ O objetivo principal deste repositório é criar um espaço colaborativo para co
 
 Sinta-se à vontade para contribuir com soluções, dicas, tutoriais e qualquer conteúdo que possa beneficiar outros integradores. Todas as contribuições são bem-vindas!
 
-## Lista de Pastas
+## Conteúdo
 
-| Pasta                           | Descrição                                |
-|---------------------------------|------------------------------------------|
-| [Pasta1](./Pasta1)               | Descrição da Pasta1                      |
-| [Pasta2](./Pasta2)               | Descrição da Pasta2                      |
-| [Pasta3](./Pasta3)               | Descrição da Pasta3                      |
+| [sap-cpi](./sap-cpi)               | SAP Cloud Platform Integration                       |
+| [sap-pipo](./sap-pipo)               | SAP Process Integration/Process Orchestration                     |
 
 ## Comunidade e Suporte
 
