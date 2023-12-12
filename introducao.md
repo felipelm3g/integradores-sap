@@ -12,7 +12,7 @@ Sinta-se à vontade para contribuir com soluções, dicas, tutoriais e qualquer 
 
 ## Conteúdo
 
-[SAP Cloud Platform Integration](./sap-cpi)
+[SAP Cloud Platform Integration](./sap-cpi)  
 [SAP Process Integration/Process Orchestration](./sap-pipo)
 
 ## Comunidade e Suporte
