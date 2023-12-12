@@ -17,7 +17,7 @@ Sinta-se à vontade para contribuir com soluções, dicas, tutoriais e qualquer 
 
 ## Comunidade e Suporte
 
-Participe da nossa comunidade no [Discord](https://discord.gg/c3bkMNE7ym){:target="_blank"}, um espaço aberto para discussões, perguntas e interações entre os membros. Este Discord funciona como um fórum e comunidade para troca de experiências.
+Participe da nossa comunidade no [Discord](https://discord.gg/c3bkMNE7ym), um espaço aberto para discussões, perguntas e interações entre os membros. Este Discord funciona como um fórum e comunidade para troca de experiências.
 
 Esperamos que este repositório seja útil no seu aprendizado e nas suas atividades de integração no ambiente SAP. Se tiver dúvidas, não hesite em participar da comunidade no Discord.
 
