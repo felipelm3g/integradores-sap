@@ -1,4 +1,4 @@
 ## SAP Business Technology Platform (BTP)
 
-[Voltar](./)  
+[Voltar](../)  
 [Criar conta trial SAP BTP Cockpit](criar-conta-trial.md)  
